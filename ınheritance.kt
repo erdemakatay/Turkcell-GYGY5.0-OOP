@@ -1,4 +1,4 @@
-// Üst sýnýfýmýz
+// Ãœst sÄ±nÄ±fÄ±mÄ±z
 
 open class BilgiSistemi(
     var isim: String,
@@ -16,7 +16,7 @@ open class BilgiSistemi(
     }
 }
 
-// Alt sýnýfýmýz 
+// Alt sÄ±nÄ±fÄ±mÄ±z 
 
 class YazilimciBilgisi(
     isim: String,
