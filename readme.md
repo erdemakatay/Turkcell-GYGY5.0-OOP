@@ -16,23 +16,23 @@
 
 
 
-#  2- Encapsulation
+## 2- Encapsulation
 
-## Bir sınıf (class) içindeki verileri (değişkenleri) ve o veriler üzerinde işlem yapan kodları tek bir birim içinde birleştirmek ve bu verileri dış dünyadan gelebilecek hatalı müdahalelere karşı korumaktır.
+### Bir sınıf (class) içindeki verileri (değişkenleri) ve o veriler üzerinde işlem yapan kodları tek bir birim içinde birleştirmek ve bu verileri dış dünyadan gelebilecek hatalı müdahalelere karşı korumaktır.
 
-###  **Encapsulation örnek kodlarım :** [encapsulation.kt](./encapsulation.kt)
+####  **Encapsulation örnek kodlarım :** [encapsulation.kt](./encapsulation.kt)
 
-#  3- Inheritance
+##  3- Inheritance
 
-## Bir sınıfın (alt sınıf) başka bir sınıftan (üst sınıf) özelliklerini ve davranışlarını miras almasıdır. Alt sınıf, üst sınıfın tüm özelliklerine ve fonksiyonlarına erişebilir ve gerektiğinde bunları özelleştirebilir (override). Bu sayede kod tekrarından kaçınılır ve daha düzenli bir yapı oluşturulur.
+### Bir sınıfın (alt sınıf) başka bir sınıftan (üst sınıf) özelliklerini ve davranışlarını miras almasıdır. Alt sınıf, üst sınıfın tüm özelliklerine ve fonksiyonlarına erişebilir ve gerektiğinde bunları özelleştirebilir (override). Bu sayede kod tekrarından kaçınılır ve daha düzenli bir yapı oluşturulur.
 
-###  **Inheritance örnek kodlarım :** [ınheritance.kt](./ınheritance.kt)
+####  **Inheritance örnek kodlarım :** [ınheritance.kt](./ınheritance.kt)
 
-#  4- Polymorphism
+##  4- Polymorphism
 
-## Bir sınıfın farklı alt sınıflarının aynı fonksiyonu farklı şekillerde uygulayabilme yeteneğidir. Polymorphism sayesinde, bir üst sınıf türünde bir değişken, alt sınıf türündeki nesneleri tutabilir ve bu nesnelerin kendi özel davranışlarını sergilemesine izin verir. Bu da kodun daha esnek ve genişletilebilir olmasını sağlar.
+### Bir sınıfın farklı alt sınıflarının aynı fonksiyonu farklı şekillerde uygulayabilme yeteneğidir. Polymorphism sayesinde, bir üst sınıf türünde bir değişken, alt sınıf türündeki nesneleri tutabilir ve bu nesnelerin kendi özel davranışlarını sergilemesine izin verir. Bu da kodun daha esnek ve genişletilebilir olmasını sağlar.
 
-###  **Polymorphism örnek kodlarım :** [polymorphism.kt](./polymorphism.kt)
+####  **Polymorphism örnek kodlarım :** [polymorphism.kt](./polymorphism.kt)
 
 ---
 
