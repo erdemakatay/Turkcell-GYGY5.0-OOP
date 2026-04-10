@@ -1,0 +1,50 @@
+# OOP Türleri Nelerdir ve Nasýl Kullanýlýr ?
+
+### Bu proje, Kotlin dilinde Nesne Yönelimli Programlama'nýn (OOP) 4 temel prensibini pratik örneklerle açýklamak amacýyla oluþturulmuþtur. Her temel prensip için ayrý ayrý örnekler verilmiþtir.
+
+<br>
+
+![(https://ybskulubu.cumhuriyet.edu.tr/nesne-yonelimli-programlama-oop-nedir/)
+](https://ybskulubu.cumhuriyet.edu.tr/wp-content/uploads/2024/03/Nesne-Yonelimli-Programlama-OOP-Nedir.jpg)
+
+<br>
+
+# ?? 1- Abstraction
+
+## Abstraction (Soyutlama), karmaþýk bir sistemi parçalara ayýrýp, kullanýcýya sadece ihtiyacý olan kýsýmlarý gösterip arka plandaki karmaþýk detaylarý gizleme iþlemidir.
+
+### ?? **Abstraction örnek kodlarým :** [abstraction.kt](./abstraction.kt)
+
+<br>
+
+# ?? 2- Encapsulation
+
+## Bir sýnýf (class) içindeki verileri (deðiþkenleri) ve o veriler üzerinde iþlem yapan kodlarý tek bir birim içinde birleþtirmek ve bu verileri dýþ dünyadan gelebilecek hatalý müdahalelere karþý korumaktýr.
+
+### ?? **Encapsulation örnek kodlarým :** [encapsulation.kt](./encapsulation.kt)
+
+# ?? 3- Inheritance
+
+## Bir sýnýfýn (alt sýnýf) baþka bir sýnýftan (üst sýnýf) özelliklerini ve davranýþlarýný miras almasýdýr. Alt sýnýf, üst sýnýfýn tüm özelliklerine ve fonksiyonlarýna eriþebilir ve gerektiðinde bunlarý özelleþtirebilir (override). Bu sayede kod tekrarýndan kaçýnýlýr ve daha düzenli bir yapý oluþturulur.
+
+### ?? **Inheritance örnek kodlarým :** [ýnheritance.kt](./ýnheritance.kt)
+
+# ?? 4- Polymorphism
+
+## Bir sýnýfýn farklý alt sýnýflarýnýn ayný fonksiyonu farklý þekillerde uygulayabilme yeteneðidir. Polymorphism sayesinde, bir üst sýnýf türünde bir deðiþken, alt sýnýf türündeki nesneleri tutabilir ve bu nesnelerin kendi özel davranýþlarýný sergilemesine izin verir. Bu da kodun daha esnek ve geniþletilebilir olmasýný saðlar.
+
+### ?? **Polymorphism örnek kodlarým :** [polymorphism.kt](./polymorphism.kt)
+
+---
+
+<br>
+
+# ????? Kurulum ve Çalýþtýrma Talimatý
+
+```markdown
+## ??? Nasýl Çalýþtýrýlýr?
+
+1. Bu repoyu bilgisayarýnýza indirin.
+2. Android Studio'yu açýn.
+3. `.kt` dosyalarý içindeki `main` fonksiyonlarýný bularak çalýþtýrýn.
+```
