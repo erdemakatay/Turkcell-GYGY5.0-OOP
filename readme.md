@@ -26,7 +26,7 @@
 
 #### -Bir sınıfın (alt sınıf) başka bir sınıftan (üst sınıf) özelliklerini ve davranışlarını miras almasıdır. Alt sınıf, üst sınıfın tüm özelliklerine ve fonksiyonlarına erişebilir ve gerektiğinde bunları özelleştirebilir (override). Bu sayede kod tekrarından kaçınılır ve daha düzenli bir yapı oluşturulur.
 
-#####  -**Inheritance örnek kodlarım :** [ınheritance.kt](./ınheritance.kt)
+####  -**Inheritance örnek kodlarım :** [ınheritance.kt](./ınheritance.kt)
 
 ## 🔎 4- Polymorphism
 
