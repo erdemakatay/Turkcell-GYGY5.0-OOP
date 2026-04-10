@@ -10,9 +10,9 @@
 
 ## 🔎 1- Abstraction
 
-#### Abstraction (Soyutlama), karmaşık bir sistemi parçalara ayırıp, kullanıcıya sadece ihtiyacı olan kısımları gösterip arka plandaki karmaşık detayları gizleme işlemidir.
+#### -Abstraction (Soyutlama), karmaşık bir sistemi parçalara ayırıp, kullanıcıya sadece ihtiyacı olan kısımları gösterip arka plandaki karmaşık detayları gizleme işlemidir.
 
-####  **Abstraction örnek kodlarım :** [abstraction.kt](./abstraction.kt)
+####  -**Abstraction örnek kodlarım :** [abstraction.kt](./abstraction.kt)
 
 
 
