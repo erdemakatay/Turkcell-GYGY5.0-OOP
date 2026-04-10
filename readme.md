@@ -1,6 +1,6 @@
 # OOP Türleri Nelerdir ve Nasıl Kullanılır ?
 
-### Bu proje, Kotlin dilinde Nesne Yönelimli Programlama'nın (OOP) 4 temel prensibini pratik örneklerle açıklamak amacıyla oluşturulmuştur. Her temel prensip için ayrı ayrı örnekler verilmiştir.
+#### Bu proje, Kotlin dilinde Nesne Yönelimli Programlama'nın (OOP) 4 temel prensibini pratik örneklerle açıklamak amacıyla oluşturulmuştur. Her temel prensip için ayrı ayrı örnekler verilmiştir.
 
 
 
