@@ -4,8 +4,8 @@
 
 
 
-![(https://ybskulubu.cumhuriyet.edu.tr/nesne-yonelimli-programlama-oop-nedir/)
-](https://ybskulubu.cumhuriyet.edu.tr/wp-content/uploads/2024/03/Nesne-Yonelimli-Programlama-OOP-Nedir.jpg)
+    ![(https://ybskulubu.cumhuriyet.edu.tr/nesne-yonelimli-programlama-oop-nedir/)
+    ](https://ybskulubu.cumhuriyet.edu.tr/wp-content/uploads/2024/03/Nesne-Yonelimli-Programlama-OOP-Nedir.jpg)
 
 
 
