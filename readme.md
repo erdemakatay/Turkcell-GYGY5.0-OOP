@@ -38,10 +38,10 @@
 
 
 
-# Kurulum ve Çalıştırma Talimatı
+## Kurulum ve Çalıştırma Talimatı
 
 ```markdown
-##  Nasıl Çalıştırılır?
+  Nasıl Çalıştırılır?
 
 1. Bu repoyu bilgisayarınıza indirin.
 2. Android Studio'yu açın.
